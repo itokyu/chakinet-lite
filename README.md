@@ -6,7 +6,7 @@
 - ChaKi.NET liteの本体は、本サイトの[リリースページ](https://github.com/chakidev/chakinet-lite/releases) からmsiパッケージをダウンロード&インストールすることで使用できるようになります。
   - Windows10以降(64bit版のみ)をサポートしています。
 - すぐに利用可能な形のUD Treebanks v.2.9データベースファイルは以下からダウンロードできます。(サイズが大きいため3つのzipファイルに分割しています。)
-  1. Afrikans - Greek  
+  1. Afrikaans - Greek  
      https://drive.google.com/file/d/1FWBKJs2Ua6YMrHG3s06ZffCWjqalzr7p  
      SHA256 Hash: b3eda098a4036d7e89c4f3f2c3681328e2e5c87875dd0d5e80b206a10cec75b1
   2. Guajajara - Norwegian  
